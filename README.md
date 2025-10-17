@@ -18,8 +18,7 @@
             text-align: center;
             padding: 1em 0;
         }
- /* Style for the logo */
-        .logo {
+ /* Style for the logo */.logo {
             max-width: 100px; /* Adjust size as needed */
             height: auto;
             margin-bottom: 10px; /* Add some space below the logo */
