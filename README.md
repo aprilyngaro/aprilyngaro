@@ -19,9 +19,9 @@
             padding: 1em 0;
         }
  /* Style for the logo */.logo {
-            max-width: 200px; /* Adjust size as needed */
-            height: 80px;
-            margin-bottom: 100px; /* Add some space below the logo */
+            max-width: 100px; /* Adjust size as needed */
+            height:auto;
+            margin-bottom: 10px; /* Add some space below the logo */
         }
  section {
             padding: 20px;
